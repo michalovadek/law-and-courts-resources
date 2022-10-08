@@ -21,7 +21,7 @@ _Deep Legal Coding (Sadl & Kim)_:
 
 ## Wednesday, 12 October
 
-_Quantitative Text Analysis and IUROPA’s Text Corpus (Ovadek)_:
+_Quantitative Text Analysis and IUROPA’s Text Corpus (Ovadek)_: https://github.com/michalovadek/iuropa-text-corpus-demo
 
 ## Thursday, 13 October
 
